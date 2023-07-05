@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @santi100a
-- 👀 I’m interested in Python and JavaScript. 
-- 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on Microsoft. 
-- 📫 How to reach me? My email is santyrojasprieto9@gmail.com. 
+- 👋 Hi, I’m Santiago Rojas (aka Santi). 😉
+- 👀 I’m interested in Python and TypeScript. 
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on GitHub's open source projects. 
+- 📫 How to reach me? My email is <santyrojasprieto9+github@gmail.com>. 
 
 
 <!---
