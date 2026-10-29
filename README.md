@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and TypeScript. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on GitHub's open source projects. 
-- 📫 How to reach me? My email is <sant100a@aol.com>. 
+- 📫 How to reach me? My email is <santi100a@aol.com>. 
 
 
 <!---
